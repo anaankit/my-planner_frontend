@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~open-iconic/font/css/open-iconic-bootstrap.css';
+@import "../node_modules/angular-calendar/css/angular-calendar.css";
+@import "~ng-snotify/styles/material.css";
+body {
+    overflow-x: hidden;
+  }

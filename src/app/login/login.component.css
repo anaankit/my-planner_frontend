@@ -1,0 +1,31 @@
+
+img{
+    
+    height:100%;
+    width:100%;
+    /* align-content: center;
+    margin: 0 5% 0 10%; */
+
+}   
+
+.box{
+margin-top:3%;
+box-shadow: 0 1px 2px 0 gray;
+border-radius: 10px;
+
+}
+
+.col-md-4{
+    padding:2%;
+}
+
+.label{
+    padding:2%;
+}
+
+input{
+    padding:2%;
+    border:none !important; 
+  border-bottom:1px solid #757575 !important;
+}
+
